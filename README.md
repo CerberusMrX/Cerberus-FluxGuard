@@ -34,7 +34,7 @@ Cerberus FluxGuard is designed for straightforward deployment. It is a self-cont
     Clone the repository from GitHub:
 
     ```bash
-    git clone https://github.com/your-repo/cerberus_fluxguard.git
+    git clone https://github.com/CerberusMrX/cerberus_fluxguard.git
     cd cerberus_fluxguard
     ```
 
