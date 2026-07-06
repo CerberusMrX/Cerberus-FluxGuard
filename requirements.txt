@@ -1,0 +1,59 @@
+# ============================================================================
+# CERBERUS FLUXGUARD v1.0 - Requirements
+# ============================================================================
+# WebSocket Security Intelligence Platform
+# Author: Sudeepa Wanigarathna
+# Powered by Serendibware
+# ============================================================================
+# Install: pip install -r requirements.txt
+# ============================================================================
+
+# Core WebSocket Support
+websocket-client>=1.6.0
+websockets>=12.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Terminal Colors & Styling
+colorama>=0.4.6
+
+# Rich Terminal UI (Optional - Enhanced Display)
+rich>=13.7.0
+
+# ASCII Art Generator (Optional - Cool Banners)
+pyfiglet>=1.0.0
+
+# SSL/TLS Support (Built-in Python)
+# ssl - Included with Python 3.7+
+
+# URL Parsing (Built-in Python)
+# urllib3 - Installed with requests
+
+# ============================================================================
+# MINIMUM PYTHON VERSION
+# ============================================================================
+# Python >= 3.7
+
+# ============================================================================
+# OPTIONAL DEPENDENCIES
+# ============================================================================
+# These are optional but recommended for full functionality:
+
+# For colored terminal output (recommended)
+# colorama>=0.4.6
+
+# For enhanced UI with progress bars and panels
+# rich>=13.7.0
+
+# For ASCII art banners on startup
+# pyfiglet>=1.0.0
+
+# ============================================================================
+# QUICK INSTALL
+# ============================================================================
+# pip install -r requirements.txt
+# 
+# Or install individually:
+# pip install websocket-client websockets requests colorama rich pyfiglet
+# ============================================================================
