@@ -146,9 +146,14 @@ Cerberus FluxGuard employs a structured, multi-phase scanning methodology to ens
 9.  **SSL/TLS Configuration**: Verification of proper SSL/TLS configuration to ensure secure communication.
 10. **CORS Misconfiguration**: Identification of Cross-Origin Resource Sharing (CORS) misconfigurations that could lead to security bypasses.
 
-## Screenshots
+## 🖼️ Screenshots
 
-*(This section is reserved for screenshots demonstrating the tool's functionality and interface. Please insert your images here.)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cfba122a-d25f-409a-879c-58426136b291" width="48%" />
+</p>
+
+<br/>
+
 
 ## Technical Specifications
 
